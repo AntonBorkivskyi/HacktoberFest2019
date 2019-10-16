@@ -1,3 +1,6 @@
+# Python program for implementation of BogoSort 
+# This code is provided by Bohdan Borkivskyi
+
 import random
 
 
